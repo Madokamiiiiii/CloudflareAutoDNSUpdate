@@ -1,0 +1,4 @@
+{
+  "email": "example@example.com",
+  "apikey": "12345" // Use global API key
+}
